@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 84" width="420" height="84" fill="none">
+  <defs>
+    <linearGradient id="icvGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0A192F"/>
+      <stop offset="50%" stop-color="#0F2A4A"/>
+      <stop offset="100%" stop-color="#1E3A8A"/>
+    </linearGradient>
+    <linearGradient id="goldGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#F59E0B"/>
+      <stop offset="100%" stop-color="#D97706"/>
+    </linearGradient>
+  </defs>
+  <g transform="translate(10, 10)">
+    <path d="M32 4 58 14v24c0 16-26 26-26 26S6 54 6 38V14L32 4Z" fill="url(#icvGrad)" stroke="#fff" stroke-width="1.5"/>
+    <path d="M22 28c0-5 4-8 10-8s10 3 10 8" stroke="#F8FAFC" stroke-width="2.5" stroke-linecap="round"/>
+    <path d="M18 36h28" stroke="url(#goldGrad)" stroke-width="2.5" stroke-linecap="round"/>
+    <circle cx="23" cy="42" r="3.5" fill="#fff"/>
+    <circle cx="41" cy="42" r="3.5" fill="#fff"/>
+    <circle cx="48" cy="18" r="9" fill="url(#goldGrad)" stroke="#0A192F" stroke-width="1.5"/>
+    <path d="m45 18 2.5 2.5 4-5" stroke="#fff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="80" y="38" font-family="'Plus Jakarta Sans',Arial,sans-serif" font-weight="900" font-size="28" fill="#0A192F" letter-spacing=".5">ICV</text>
+  <text x="138" y="37" font-family="'Plus Jakarta Sans',Arial,sans-serif" font-weight="700" font-size="13.5" fill="#1E3A8A" letter-spacing=".5">INSTITUTO CAPIXABA</text>
+  <text x="138" y="52" font-family="'Plus Jakarta Sans',Arial,sans-serif" font-weight="600" font-size="11" fill="#64748B" letter-spacing="1.8">DE VISTORIADORES</text>
+  <rect x="306" y="24" width="102" height="24" rx="4" fill="#F1F5F9" stroke="#CBD5E1"/>
+  <circle cx="317" cy="36" r="4" fill="#10B981"/>
+  <text x="360" y="40" font-family="'Plus Jakarta Sans',Arial,sans-serif" font-weight="700" font-size="9" fill="#0F172A" text-anchor="middle" letter-spacing=".5">VILA VELHA " ECV</text>
+</svg>
